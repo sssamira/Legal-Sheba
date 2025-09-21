@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import design system variables and base styles */
+@import '../Legal-Sheba Portal/styles/globals.css';
+
+html, body, #root { height: 100%; }
