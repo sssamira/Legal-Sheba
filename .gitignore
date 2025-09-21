@@ -1,0 +1,20 @@
+# Root ignores
+
+# Node
+node_modules/
+
+# Build outputs
+**/dist/
+**/target/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
